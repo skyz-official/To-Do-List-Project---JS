@@ -1,0 +1,47 @@
+.box{
+    height: 295px;
+    width: 640px;
+    border: 2px solid black;
+}
+.All{
+    display: flex;
+    flex-direction: row;
+}
+.AllT{
+    display: flex;
+    flex-direction: row;
+}
+h1{
+    padding-left: 470px;
+    padding-top: 20PX;
+}
+.h3{
+padding-left: 120px;
+}
+
+.h{
+    padding-left: 160px;
+}
+.works{
+    height: 200px;
+    width: 520px;
+    border: 2px solid black;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.check{
+    height: 200px;
+    width: 520px;
+    border: 2px solid black;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.checkText{
+    padding-left: 100px;
+    padding-top: 20px;
+}
+.footer{
+ height: 80px;
+ width: 520px; 
+margin-top: 130px;
+text-align: center;}
